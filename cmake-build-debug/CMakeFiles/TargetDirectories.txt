@@ -1,0 +1,3 @@
+/home/yzh/code/CLionProjects/TinyServer/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/yzh/code/CLionProjects/TinyServer/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/yzh/code/CLionProjects/TinyServer/cmake-build-debug/CMakeFiles/TinyServer.dir

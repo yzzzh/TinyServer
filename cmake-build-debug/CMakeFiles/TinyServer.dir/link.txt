@@ -1,0 +1,1 @@
+/usr/bin/c++   -O3  -g   CMakeFiles/TinyServer.dir/main.cpp.o CMakeFiles/TinyServer.dir/threadpool.cpp.o CMakeFiles/TinyServer.dir/models/http_conn.cpp.o CMakeFiles/TinyServer.dir/models/MyProactor.cpp.o  -o ../bin/TinyServer  -lpthread 
